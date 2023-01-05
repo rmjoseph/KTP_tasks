@@ -4,7 +4,7 @@
 ** Desc: running this do-file will call the 3 do-files in the correct order
 ** Use: set working directory at line 7
 
-cd "[filepath]/ktp_tasks"
+cd "[filepath]/KTP_tasks"
 
 do cleaning_datasets.do
 do summary_tables.do
